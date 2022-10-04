@@ -1,0 +1,65 @@
+[33mcommit 74d1bc238720d7f63794ddb6e6f7c93f7fb320fa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 23:47:04 2022 -0400
+
+    resaving last commit
+
+[33mcommit 63b2d851da7a273798cf826a93d57937379a86f8[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 23:44:54 2022 -0400
+
+    Imagen de arepa agregada y se arreglaron los anchor de la lista de recetas
+
+[33mcommit 016af02a039136e36eed6e4836f9fcb6f912c88c[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 23:14:00 2022 -0400
+
+    Incluir lista de links para las primeras dos recetas
+
+[33mcommit 29512001bdc04f55d3c5b216e2449b89d31b97e7[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 23:10:43 2022 -0400
+
+    Receta arepa pelua y su imagen
+
+[33mcommit 16737a9f0056c73461a265c5739b190d78e64b29[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 23:00:14 2022 -0400
+
+    receta arepa pelua y si img
+
+[33mcommit f0696d15a28d2f79bba7be4735e4a3ec5449263d[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 22:45:30 2022 -0400
+
+    Implementacion de img arepa pelua y la receta
+
+[33mcommit b7955e98567b14afb7521b9d25e0bfb9ab382ee3[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 20:15:15 2022 -0400
+
+    List of ingredients created
+
+[33mcommit b76c6025a394051e6270327a5c94b6b3f4aa8f5f[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 20:03:03 2022 -0400
+
+    creating list of ingredients first recipe
+
+[33mcommit 7c6b308c0884577ca6cb443873105baeb3b7325e[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 19:42:27 2022 -0400
+
+    Including images of the recipes
+
+[33mcommit 9e14470b6325baf27343b3347002c796944a490e[m
+Author: Botero <arturobotero28@gmail.com>
+Date:   Sat Oct 1 19:19:03 2022 -0400
+
+    Boilerplate rootpage and link to 1st recipe and boilerplate and image of 1st recipe
+
+[33mcommit 572b274939752d36a13d7bb3c2061e6291ceb1be[m
+Author: RicardoBotero28 <113004653+RicardoBotero28@users.noreply.github.com>
+Date:   Sat Oct 1 14:22:20 2022 -0400
+
+    Initial commit
